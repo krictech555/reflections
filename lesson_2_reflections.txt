@@ -1,0 +1,13 @@
+How can you use the staging area to make sure you have one commit per logical change?
+Add each file to staging area once you finished with the changes
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+Add new features. If multiple people working on the same code, braches will help
+
+How do the diagrams help you visualize the branch structure?
+To better understanding of the commits and the parents of the branches.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+keep all the changes made by two braches
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
